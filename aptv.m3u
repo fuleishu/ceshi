@@ -4406,6 +4406,20 @@ http://iptv.4666888.xyz/iptv2A.php?id=30
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="广东频道",澳视澳门
 http://iptv.4666888.xyz/iptv2A.php?id=41
 
+#EXTINF:-1 tvg-name="HK凤凰中文台" tvg-logo="https://live.fanmingming.com/tv/HK凤凰中文台.png" group-title="广东频道",HK凤凰中文台
+http://ha.wwszxc.tax:17493/data/4gtv/hktv.php?id=d3661587b1a500290fabdfd62c366d18e371ec23bca12e22e5cef212eaa871a1
+#EXTINF:-1 tvg-name="HK凤凰中文台" tvg-logo="https://live.fanmingming.com/tv/HK凤凰中文台.png" group-title="广东频道",HK凤凰中文台
+http://ha.wwszxc.tax:17493/data/4gtv/hktv.php?id=b99533b320d36cd706b9ca6824ef4bc2
+#EXTINF:-1 tvg-name="HK凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/HK凤凰资讯台.png" group-title="广东频道",HK凤凰资讯台
+http://ha.wwszxc.tax:17493/data/4gtv/hktv.php?id=d3661587b1a500290fabdfd62c366d188d10703e28493424ab51db129dd08458
+#EXTINF:-1 tvg-name="HK凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/HK凤凰资讯台.png" group-title="广东频道",HK凤凰资讯台
+http://ha.wwszxc.tax:17493/data/4gtv/hktv.php?id=8cd958e95a7d3b700e579a12db76d529295548e3676140a09bee628a279c1b65
+#EXTINF:-1 tvg-name="HK凤凰香港台" tvg-logo="https://live.fanmingming.com/tv/HK凤凰香港台.png" group-title="广东频道",HK凤凰香港台
+http://ha.wwszxc.tax:17493/data/4gtv/hktv.php?id=d3661587b1a500290fabdfd62c366d1866efe29048ca75a1a483dcdf9a236da2
+#EXTINF:-1 tvg-name="HK凤凰香港台" tvg-logo="https://live.fanmingming.com/tv/HK凤凰香港台.png" group-title="广东频道",HK凤凰香港台
+http://ha.wwszxc.tax:17493/data/4gtv/hktv.php?id=db3e46eec5fcbce562c53c732f16ba42
+#EXTINF:-1 tvg-name="HK凤凰香港台" tvg-logo="https://live.fanmingming.com/tv/HK凤凰香港台.png" group-title="广东频道",HK凤凰香港台
+http://ha.wwszxc.tax:17493/data/4gtv/hktv.php?id=1934c8f43a1d33e1de42856fe543b3c8
 #EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文台.png" group-title="广东频道",凤凰中文台
 http://rihou.cc:555/tv/[Pd]凤凰中文
 #EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯台.png" group-title="广东频道",凤凰资讯台
@@ -4413,11 +4427,11 @@ http://rihou.cc:555/tv/[Pd]凤凰资讯
 #EXTINF:-1 tvg-name="凤凰香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰香港台.png" group-title="广东频道",凤凰香港台
 http://rihou.cc:555/tv/[Pd]凤凰香港
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="广东频道",鳳凰中文
-http://feilong123.vip/409990236/hktv.php?id=1
+https://cdn6.101.qzz.io/163189/fhzw
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="广东频道",鳳凰资讯
-http://feilong123.vip/409990236/hktv.php?id=2
+https://cdn6.101.qzz.io/163189/fhzx
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="广东频道",鳳凰香港
-http://feilong123.vip/409990236/hktv.php?id=3
+https://cdn6.101.qzz.io/163189/fhhk
 #EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://live.fanmingming.com/tv/NOW新闻台.png" group-title="广东频道",NOW新闻台
 https://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-name="翡翠台(字幕)" tvg-logo="https://live.fanmingming.com/tv/翡翠台(字幕).png" group-title="广东频道",翡翠台(字幕)
