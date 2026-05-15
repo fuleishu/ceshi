@@ -4412,11 +4412,11 @@ http://rihou.cc:555/tv/[Pd]凤凰中文
 http://rihou.cc:555/tv/[Pd]凤凰资讯
 #EXTINF:-1 tvg-name="凤凰香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰香港台.png" group-title="广东频道",凤凰香港台
 http://rihou.cc:555/tv/[Pd]凤凰香港
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="广东频道",凤凰中文1
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="广东频道",鳳凰中文
 http://feilong123.vip/409990236/hktv.php?id=1
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="广东频道",凤凰资讯1
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="广东频道",鳳凰资讯
 http://feilong123.vip/409990236/hktv.php?id=2
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="广东频道",凤凰香港1
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="广东频道",鳳凰香港
 http://feilong123.vip/409990236/hktv.php?id=3
 #EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://live.fanmingming.com/tv/NOW新闻台.png" group-title="广东频道",NOW新闻台
 https://cdn.163189.xyz/163189/now
