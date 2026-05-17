@@ -38,7 +38,7 @@
         ]
       }
     },
-     {
+    {
       "key": "瓜子影视",
       "name": "瓜子｜弹幕",
       "type": 3,
@@ -308,7 +308,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-        {
+    {
       "key": "移动",
       "name": "移动┃免扫",
       "type": 3,
@@ -317,7 +317,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "style": {
-      "type": "rect"
+        "type": "rect"
       }
     },
     {
@@ -864,7 +864,7 @@
         "type": "list"
       }
     },
-     {
+    {
       "key": "919体育",
       "name": "99体育丨体育合集",
       "type": 3,
@@ -933,7 +933,7 @@
       "name": "世界听书丨听书",
       "type": 3,
       "api": "csp_TingShijie",
-      "jar": "https://gitee.com/fuleishu/fulei/raw/master/t.jar",
+      "jar": "https://ghfast.top/raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/t.jar",
       "style": {
         "type": "rect",
         "ratio": 1.33
@@ -964,7 +964,7 @@
       "name": "梨园戏曲丨戏曲",
       "type": 3,
       "api": "csp_AppLY",
-      "jar": "https://gitee.com/fuleishu/fulei/raw/master/t.jar",
+      "jar": "https://ghfast.top/raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/t.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -978,7 +978,7 @@
       "name": "急救教学丨知识",
       "type": 3,
       "api": "csp_FirstAid",
-      "jar": "https://gitee.com/fuleishu/fulei/raw/master/t.jar",
+      "jar": "https://ghfast.top/raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/t.jar",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -986,7 +986,7 @@
         "type": "rect",
         "ratio": 1.597
       }
-      },
+    },
     {
       "key": "push_agent",
       "name": "手机｜推送视频",
@@ -1055,28 +1055,28 @@
       }
     }
   ],
-    "lives": [
-     {
+  "lives": [
+    {
       "name": "芙蕾测试",
       "type": 0,
       "url": "https://gitee.com/fuleishu/fulei/raw/master/js/live.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png",
-       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
       "playerType": 2,
       "timeout": 10
-      }, 
-      {
+    },
+    {
       "name": "王子直播",
       "type": 0,
       "url": "https://gitee.com/g1753462733/zb/raw/main/itvlist.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png",
-       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
       "playerType": 2,
       "timeout": 10
-    }, 
-       {
+    },
+    {
       "name": "AI直播",
       "type": 0,
       "url": "https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/0186Yspf4m88.m3u",
@@ -1089,37 +1089,37 @@
       "url": "http://38.75.136.137:88/api/tvlist.php",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png",
-       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
       "playerType": 2,
       "timeout": 10
-    },   
+    },
     {
       "name": "超清测试",
       "type": 0,
       "url": "https://ghfast.top/raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/aptv.m3u",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png",
-       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
       "playerType": 2,
       "timeout": 10
-    }, 
-      {
+    },
+    {
       "name": "央卫测试",
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-      "ua":"AptvPlayer/1.4.0",
+      "ua": "AptvPlayer/1.4.0",
       "playerType": 2,
       "timeout": 10,
-      "epg":"https://epg.v1.mk/json?ch={name}&date={date}",
-      "logo":"https://epg.v1.mk/logo/{name}.png"
-    }, 
+      "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+      "logo": "https://epg.v1.mk/logo/{name}.png"
+    },
     {
       "name": "全国组播",
       "type": 0,
       "url": "https://ghfast.top/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png",
-       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
       "playerType": 2,
       "timeout": 10
     },
@@ -1129,7 +1129,7 @@
       "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png",
-       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
       "playerType": 2,
       "timeout": 10
     },
@@ -1140,8 +1140,8 @@
       "playerType": 2,
       "timeout": 10,
       "ua": "bingcha/1.1 (mianfeifenxiang) "
-    },   
-     {
+    },
+    {
       "name": "MIGU（登录版）",
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=migu&type=m3u8",
