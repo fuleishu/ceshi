@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/fuleishu/fulei/raw/master/json/t1.png",
+  "spider": "https://ghfast.top/raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/t1.jar",
   "wallpaper": "https://t.alcy.cc/pc",
   "logo": "./logo.gif",
   "sites": [
@@ -313,7 +313,7 @@
       "name": "移动┃免扫",
       "type": 3,
       "api": "csp_YD",
-      "jar": "https://gitee.com/fuleishu/fulei/raw/master/js/lzxw4.jar",
+      "jar": "https://ghfast.top/raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/lzxw4.jar",
       "searchable": 1,
       "quickSearch": 1,
       "style": {
@@ -325,7 +325,7 @@
       "name": "小羊┃免扫",
       "type": 3,
       "api": "csp_lzxw2",
-      "jar": "https://gitee.com/fuleishu/fulei/raw/master/js/lzxw4.jar",
+      "jar": "https://ghfast.top/raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/lzxw4.jar",
       "ext": {
         "url": "https://qjappcms410.xy4k.com",
         "dataKey": "mC6kG4mI1uM8tS4o",
@@ -337,29 +337,11 @@
       "name": "极影┃免扫",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "https://gitee.com/fuleishu/fulei/raw/master/js/lzxw4.jar",
+      "jar": "https://ghfast.top/raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/lzxw4.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://101.201.171.207:802/api.php/app/"
-    },
-    {
-      "key": "闪影",
-      "name": "闪影┃免扫",
-      "type": 3,
-      "api": "csp_AppYs",
-      "jar": "https://gitee.com/fuleishu/fulei/raw/master/js/lzxw3.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
-            "categories": [
-                "电影",
-                "剧集",
-                "短剧",
-                "综艺",
-                "动漫"
-            ]
     },
     {
       "key": "顾我99",
