@@ -13,6 +13,35 @@ http://cfss.cc/cdn/dy/cctv6media..flv
 #EXTINF:-1 group-title="温馨提示" tvg-logo="https://www.lysvc.cc/TVLogo/img/CCTV13.png",可联系店主
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="CCTV01" tvg-logo="https://live.fanmingming.com/tv/CCTV01.png" group-title="央卫精选",CCTV-01
+http://iptv.4666888.xyz/iptv2A.php?id=7
+#EXTINF:-1 tvg-name="CCTV02" tvg-logo="https://live.fanmingming.com/tv/CCTV02.png" group-title="央卫精选",CCTV-02
+http://iptv.4666888.xyz/iptv2A.php?id=8
+#EXTINF:-1 tvg-name="CCTV03" tvg-logo="https://live.fanmingming.com/tv/CCTV03.png" group-title="央卫精选",CCTV-03
+http://iptv.4666888.xyz/iptv2A.php?id=9
+#EXTINF:-1 tvg-name="CCTV04" tvg-logo="https://live.fanmingming.com/tv/CCTV04.png" group-title="央卫精选",CCTV-04
+http://iptv.4666888.xyz/iptv2A.php?id=10
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央卫精选",CCTV-13
+http://iptv.4666888.xyz/iptv2A.php?id=11
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央卫精选",CCTV-14
+http://iptv.4666888.xyz/iptv2A.php?id=12
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央卫精选",CCTV-16
+http://iptv.4666888.xyz/iptv2A.php?id=32
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="央卫精选",浙江卫视
+http://iptv.4666888.xyz/iptv2A.php?id=14
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="央卫精选",江苏卫视
+http://iptv.4666888.xyz/iptv2A.php?id=15
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="央卫精选",湖南卫视
+http://iptv.4666888.xyz/iptv2A.php?id=13
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="央卫精选",广东卫视
+http://iptv.4666888.xyz/iptv2A.php?id=18
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="央卫精选",山西卫视
+http://iptv.4666888.xyz/iptv2A.php?id=16
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="央卫精选",青海卫视
+http://iptv.4666888.xyz/iptv2A.php?id=17
+
+
 
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
